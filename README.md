@@ -22,13 +22,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shristk&" alt="shristk" /></p>
 
 <p align="center">
-  <img src="[https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2024-11.gif](https://github.com/Shristk/Shristk/blob/64851069b02586f4df6199d7aee79a3deb8913a6/LeetcodeBadegs/202501.gif)" width="100px">
-  <img src="[https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2024-50.gif](https://github.com/Shristk/Shristk/blob/64851069b02586f4df6199d7aee79a3deb8913a6/LeetcodeBadegs/202502.gif)" width="100px">
-  <img src="[https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202501.gif](https://github.com/Shristk/Shristk/blob/64851069b02586f4df6199d7aee79a3deb8913a6/LeetcodeBadegs/202503.gif)" width="100px">
-  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2550.gif" width="100px">
-<img src="(https://github.com/Shristk/Shristk/blob/64851069b02586f4df6199d7aee79a3deb8913a6/LeetcodeBadegs/25100.gif)" width="100px">
-<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Top_SQL_50.gif" width="100px">
-<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202502.gif" width="100px">
-<img src="(https://github.com/Shristk/Shristk/blob/64851069b02586f4df6199d7aee79a3deb8913a6/LeetcodeBadegs/Top_Interview_150.gif)" width="100px">
-<img src="(https://github.com/Shristk/Shristk/blob/64851069b02586f4df6199d7aee79a3deb8913a6/LeetcodeBadegs/Top_SQL_50.gif)" width="100px">
+<img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/Introduction_to_Pandas.gif" width="100px">
+<img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/Top_Interview_150.gif" width="100px">
+<img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/Top_SQL_50.gif" width="100px">
+<img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/202501.gif" width="100px">
+<img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/202502.gif" width="100px">
+<img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/202503.gif" width="100px">
+<img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/2550.gif" width="100px">
+<img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/25100.gif" width="100px">
 </p>
