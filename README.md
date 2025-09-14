@@ -63,12 +63,7 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
 
-###
 
-<br clear="both">
-<div align="justify">
-<img src="https://raw.githubusercontent.com/ShristK/ShristK/output/snake.svg" alt="Snake animation" />
-</div>
 
 ###
 
@@ -83,6 +78,8 @@
 <img src="https://github.com/Shristk/Shristk/blob/dd36f5adaebb057d3d78d09badfd3bbd9241c52e/LeetcodeBadegs/202504.gif" width="100px">
 <img src="LeetcodeBadegs/202505.gif" width="100px">
 <img src="LeetcodeBadegs/202506.gif" width="100px">
+<img src="LeetcodeBadegs/202507.gif" width="100px">
+<img src="LeetcodeBadegs/202508.gif" width="100px">
 <img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/2550.gif" width="100px">
 <img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/25100.gif" width="100px">
 <img src="LeetcodeBadegs/200.gif" width="100px">
