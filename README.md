@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
@@ -72,6 +72,7 @@
 <img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/Introduction_to_Pandas.gif" width="100px">
 <img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/Top_Interview_150.gif" width="100px">
 <img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/Top_SQL_50.gif" width="100px">
+<img src="LeetcodeBadegs/LeetCode_75.gif" width="100px">
 <img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/202501.gif" width="100px">
 <img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/202502.gif" width="100px">
 <img src="https://github.com/Shristk/Shristk/blob/357b3d63a0ac12c370473547ae23bcf2c2979df7/LeetcodeBadegs/202503.gif" width="100px">
